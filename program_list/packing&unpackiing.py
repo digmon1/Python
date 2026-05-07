@@ -1,0 +1,9 @@
+l=[10,20,30,40.9,50]
+a,b,c,d,e=l
+print(a)
+print(type(l))
+print(b)
+print(c)
+print(d)
+print(type(a))
+print(type(d))
