@@ -1,0 +1,7 @@
+t=(2,3,1,6,4,5,9)
+l=sorted(t)
+print(f'tuple in ascending order:{tuple(l)}')
+p=sorted(t,reverse=True)
+print(f'tuple in descending order: {tuple(p)}')
+print(f'smallest element:{min(t)}')
+print(f'largest element:{max(t)}')

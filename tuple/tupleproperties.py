@@ -1,0 +1,10 @@
+t=()
+t1=tuple()
+t2=1,2,3,4,5
+t3=eval(input("enter any tuple: "))
+t4=tuple([1,2,3,4,5])
+print(t)
+print(t1)
+print(t2)
+print(t3)
+print(t4)
